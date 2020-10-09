@@ -9,9 +9,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emperrorpk007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/emperrorpk007/emperor-giveaway">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emperrorpk007&repo=emperor-giveaway" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/emperrorpk007/emperor-serverstats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emperrorpk007&repo=emperor-serverstats" />
 </a>
