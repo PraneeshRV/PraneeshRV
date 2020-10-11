@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning HTML & Python
 - 👯 I’m looking for a good partner or a team mate. I am alone. 
 
+you can contact me here if you want to become a partner or want to help me https://discord.gg/UrdD8zt
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
