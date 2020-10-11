@@ -3,7 +3,7 @@
 <a href="https://twitter.com/praneeshking007">
   <img align="left" alt="praneeshking007 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.gg/UrdD8zt">
   <img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
