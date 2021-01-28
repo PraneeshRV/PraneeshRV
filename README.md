@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **The Emperor Bot**
 - 🌱 I’m currently learning HTML,CSS
-- 👯 I’m looking for a good partner or a team mate. I am alone. 
+
 
 you can contact me here if you want to become a partner or want to help me https://discord.gg/UrdD8zt
 
