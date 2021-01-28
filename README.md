@@ -8,7 +8,7 @@
 </a>
 
 - 🔭 I’m currently working on **The Emperor Bot**
-- 🌱 I’m currently learning HTML & Python
+- 🌱 I’m currently learning HTML,CSS
 - 👯 I’m looking for a good partner or a team mate. I am alone. 
 
 you can contact me here if you want to become a partner or want to help me https://discord.gg/UrdD8zt
@@ -25,12 +25,4 @@ you can contact me here if you want to become a partner or want to help me https
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emperrorpk007&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emperrorpk007&repo=emperor-giveaway&layout=compact&theme=radical" />
-</a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emperrorpk007&repo=emperor-music&layout=compact&theme=radical" />
 </a>
