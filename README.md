@@ -29,7 +29,7 @@ you can contact me here if you want to become a partner or want to help me https
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Emperor)](https://solved.ac/xcrypt0r)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emperrorpk007&repo=emperorbot" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=emperrorpk007&repo=emperrorpk007" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
