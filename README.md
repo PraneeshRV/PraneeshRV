@@ -26,7 +26,7 @@ you can contact me here if you want to become a partner or want to help me https
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xCrypt0r)](https://solved.ac/xcrypt0r)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Emperor)](https://solved.ac/xcrypt0r)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
