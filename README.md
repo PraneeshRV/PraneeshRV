@@ -28,6 +28,12 @@ you can contact me here if you want to become a partner or want to help me https
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Emperor)](https://solved.ac/xcrypt0r)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/emperrorpk007/emperorbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emperrorpk007&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
