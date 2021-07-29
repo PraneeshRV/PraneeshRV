@@ -7,8 +7,8 @@
   <img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-- 🔭 I’m currently working on **a browser, password manager**
-- 🌱 I’m currently learning PYTHON,ETHICAL HACKING
+- 🔭 I’m currently working on **a web browser**
+- 🌱 I’m currently learning PYTHON,JS
 
 
 you can contact me here if you want to become a partner or want to help me https://discord.gg/UrdD8zt
