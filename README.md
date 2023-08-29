@@ -1,5 +1,5 @@
-## Hi, I am PRANEESH RV  👋
-**Hi, I'm PRANEESH RV, a passionate self-taught developer from India, Tamil Nadu.**
+## Hi, I am PRANEESH R V  👋
+**Hi, I'm PRANEESH R V, B.Tech Cybersecurity student in ASE'2023-27, from Tamil Nadu, India.**
 <a href="https://twitter.com/praneeshking007">
   <img align="left" alt="praneeshking007 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -7,11 +7,13 @@
   <img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-- 🔭 I’m currently working on **a web browser**
-- 🌱 I’m currently learning PYTHON,JS
+- 🔭 I’m currently working on **a portfolio website**
+- 🌱 I’m currently learning Javascript
 
 
-you can contact me here if you want to become a partner or want to help me https://discord.gg/UrdD8zt
+you can contact me in 
+instagram @_praneesh.r.v_
+discord @clashemperor
 
 **Languages and Tools:**  
 
