@@ -12,7 +12,7 @@
 
 
 you can contact me in 
-instagram @_praneesh.r.v_
+instagram @\_praneesh.r.v\_
 discord @clashemperor
 
 **Languages and Tools:**  
