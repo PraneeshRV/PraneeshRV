@@ -7,7 +7,7 @@
   <img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-- 🔭 I’m currently working on **a portfolio website**
+- 🔭 I’m currently working on **a Discord Bot**
 - 🌱 I’m currently learning Javascript
 
 
