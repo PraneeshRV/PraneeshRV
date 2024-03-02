@@ -26,7 +26,9 @@ discord @shadow_eternity
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PraneeshRV&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraneeshRV&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Streak" width="400px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PraneeshRV&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/>
+</div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneeshRV&layout=compact&theme=radical" />
 
