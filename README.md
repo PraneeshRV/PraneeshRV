@@ -13,7 +13,7 @@
 
 you can contact me in 
 instagram @\_praneesh.r.v\_  
-discord @clashemperor
+discord @shadow_eternity
 
 **Languages and Tools:**  
 
