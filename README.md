@@ -1,11 +1,6 @@
 ## Hi, I am PRANEESH R V  👋
 **Hi, I'm PRANEESH R V, B.Tech Cybersecurity student in ASE'2023-27, from Tamil Nadu, India.**
-<a href="https://twitter.com/praneeshking007">
-  <img align="left" alt="praneeshking007 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/UrdD8zt">
-  <img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+
 
 - 🔭 I’m currently working on **a Discord Bot**
 - 🌱 I’m currently learning Javascript
@@ -14,7 +9,12 @@
 you can contact me in 
 instagram @\_praneesh.r.v\_  
 discord @shadow_eternity
-
+<a href="https://twitter.com/praneeshking007">
+  <img align="left" alt="praneeshking007 | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/UrdD8zt">
+  <img align="left" alt="My Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
