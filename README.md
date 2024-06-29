@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on **a Discord Bot**
-- 🌱 I’m currently learning Javascript
+- 🌱 Currently learning Javascript
 
 
-you can contact me in 
+contact me
 instagram @\_praneesh.r.v\_  
 discord @shadow_eternity
 <a href="https://twitter.com/praneeshking007">
