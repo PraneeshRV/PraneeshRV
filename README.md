@@ -6,10 +6,8 @@
 - 🌱 Currently learning Javascript
 
 
-contact me
 instagram @\_praneesh.r.v\_  
 discord @shadow_eternity
-<a href="https://twitter.com/praneeshking007">
 <br>
 **Languages and Tools:**  
 
