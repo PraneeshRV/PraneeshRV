@@ -7,7 +7,7 @@
    A1: Nothing
 </details>
 <details> 
-  <summary>- - 🌱 Currently learning</summary>
+  <summary>- 🌱 Currently learning</summary>
    A1: Javascript
 </details>
  
