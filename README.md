@@ -2,7 +2,10 @@
 **Hi, I'm PRANEESH R V, B.Tech Cybersecurity student in ASE'2023-27, from Tamil Nadu, India.**
 
 
-- 🔭 I’m currently working on **a Discord Bot**
+- 🔭 I’m currently working on <details> 
+  <summary>Nothing</summary>
+   A1: JavaScript 
+</details>
 - 🌱 Currently learning Javascript
 
 
