@@ -1,5 +1,5 @@
 ## Hi, I am PRANEESH R V  👋
-**Hi, I'm PRANEESH R V, B.Tech Cybersecurity student in ASE'2023-27, from Tamil Nadu, India.**
+**B.Tech Cybersecurity student in ASE'2023-27, from Tamil Nadu, India.**
 
 <details> 
   <summary>- 🌱 Currently learning</summary>
