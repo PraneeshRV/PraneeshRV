@@ -2,11 +2,15 @@
 **Hi, I'm PRANEESH R V, B.Tech Cybersecurity student in ASE'2023-27, from Tamil Nadu, India.**
 
 
-- 🔭 I’m currently working on <details> 
-  <summary>Nothing</summary>
-   A1: JavaScript 
+<details> 
+  <summary>- 🔭 I’m currently working on </summary>
+   A1: Nothing
 </details>
-- 🌱 Currently learning Javascript
+<details> 
+  <summary>- - 🌱 Currently learning</summary>
+   A1: Javascript
+</details>
+ 
 
 
 instagram @\_praneesh.r.v\_  
