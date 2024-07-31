@@ -29,5 +29,5 @@ discord @shadow_eternity
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraneeshRV&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Streak" width="400px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PraneeshRV&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/>
 </div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraneeshRV&layout=compact&theme=radical" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraneeshRV)]
 
