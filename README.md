@@ -24,5 +24,3 @@
 ![PraneeshRV's Top Languages](https://github-readme-stats-nine-amber-49.vercel.app/api/top-langs/?username=PraneeshRV&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeshrv&label=Profile%20views&color=0e75b6&style=flat" alt="praneeshrv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praneeshrv&theme=monokai&no-frame=false&rank=-C,-?" alt="praneeshrv" /></a> </p>
