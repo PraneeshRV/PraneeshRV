@@ -21,7 +21,6 @@
 
 
 ![PraneeshRV's Stats](https://github-readme-stats-nine-amber-49.vercel.app/api?username=PraneeshRV&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
-![PraneeshRV's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PraneeshRV&theme=blue-green&hide_border=true)
 ![PraneeshRV's Top Languages](https://github-readme-stats-nine-amber-49.vercel.app/api/top-langs/?username=PraneeshRV&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeshrv&label=Profile%20views&color=0e75b6&style=flat" alt="praneeshrv" /> </p>
