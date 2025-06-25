@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/praneeshrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praneeshrv" height="30" width="40" /></a>
 <a href="https://instagram.com/_praneesh.r.v_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_praneesh.r.v_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/praneeshrv404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="praneeshrv404" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/praneeshrv404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praneeshrv404" height="30" width="40" /></a>
 </p>
 
