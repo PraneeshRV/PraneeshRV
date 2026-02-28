@@ -21,7 +21,7 @@
 (I use Arch Btw)
 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshRV&theme=github_dark
+![PraneeshRV's Statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshRV&theme=github_dark)
 ![PraneeshRV's Stats](https://github-readme-stats-nine-amber-49.vercel.app/api?username=PraneeshRV&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 ![PraneeshRV's Top Languages](https://github-readme-stats-nine-amber-49.vercel.app/api/top-langs/?username=PraneeshRV&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
 
