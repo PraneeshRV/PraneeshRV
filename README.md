@@ -21,8 +21,9 @@
 (I use Arch Btw)
 
 
-![PraneeshRV's Statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshRV&theme=github_dark)
+![PraneeshRV's Statistics](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraneeshRV&theme=blue_green)
 ![PraneeshRV's Stats](https://github-readme-stats-nine-amber-49.vercel.app/api?username=PraneeshRV&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 ![PraneeshRV's Top Languages](https://github-readme-stats-nine-amber-49.vercel.app/api/top-langs/?username=PraneeshRV&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraneeshRV&theme=blue_green&utcOffset=5.3)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneeshrv&label=Profile%20views&color=0e75b6&style=flat" alt="praneeshrv" /> </p>
