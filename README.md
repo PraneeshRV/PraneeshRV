@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Practical Junior Penetration Testing (TCM PJPT)**
 
-- 📝 Personal Website (under development) [https://www.praneeshrv.xyz](https://www.praneeshrv.xyz)
+- 📝 Personal Website (under development) [https://www.praneeshrv.me](https://www.praneeshrv.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
