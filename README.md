@@ -46,6 +46,12 @@ Offensive security → AI red teaming. I break things politely — networks, web
 ## <samp>📡 recent ops</samp>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/PraneeshRV/Project-Muginn/pull/6) in [PraneeshRV/Project-Muginn](https://github.com/PraneeshRV/Project-Muginn)
+2. 💪 Opened PR [#6](https://github.com/PraneeshRV/Project-Muginn/pull/6) in [PraneeshRV/Project-Muginn](https://github.com/PraneeshRV/Project-Muginn)
+3. 🎉 Merged PR [#5](https://github.com/PraneeshRV/Project-Muginn/pull/5) in [PraneeshRV/Project-Muginn](https://github.com/PraneeshRV/Project-Muginn)
+4. 💪 Opened PR [#5](https://github.com/PraneeshRV/Project-Muginn/pull/5) in [PraneeshRV/Project-Muginn](https://github.com/PraneeshRV/Project-Muginn)
+5. 🎉 Merged PR [#4](https://github.com/PraneeshRV/Project-Muginn/pull/4) in [PraneeshRV/Project-Muginn](https://github.com/PraneeshRV/Project-Muginn)
+6. 💪 Opened PR [#4](https://github.com/PraneeshRV/Project-Muginn/pull/4) in [PraneeshRV/Project-Muginn](https://github.com/PraneeshRV/Project-Muginn)
 <!--END_SECTION:activity-->
 
 <div align="center"><samp>[ connection closed by remote host ]</samp></div>
