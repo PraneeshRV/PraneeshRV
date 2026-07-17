@@ -1,0 +1,72 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Praneesh R V — AI Red Teaming">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff2fd6"/>
+      <stop offset="0.55" stop-color="#b537f2"/>
+      <stop offset="1" stop-color="#00e5ff"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#1c2340" stroke-width="1" fill="none"/>
+    </pattern>
+    <clipPath id="sliceA"><rect x="0" y="96" width="900" height="14"/></clipPath>
+    <clipPath id="sliceB"><rect x="0" y="126" width="900" height="10"/></clipPath>
+  </defs>
+
+  <rect width="900" height="260" fill="#07070f"/>
+  <rect width="900" height="260" fill="url(#grid)" opacity="0.35"/>
+
+  <!-- scanline sweep -->
+  <rect x="0" y="-50" width="900" height="46" fill="#ffffff" opacity="0.045">
+    <animate attributeName="y" values="-50;260" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- title -->
+  <g font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', Menlo, monospace" font-weight="700">
+    <text x="60" y="132" font-size="58" letter-spacing="6" fill="url(#neon)" filter="url(#glow)">PRANEESH R V</text>
+
+    <!-- glitch slices -->
+    <g clip-path="url(#sliceA)" transform="translate(-6 0)" opacity="0">
+      <text x="60" y="132" font-size="58" letter-spacing="6" fill="#00e5ff">PRANEESH R V</text>
+      <animate attributeName="opacity" values="0;1;0;0;1;0;0" keyTimes="0;0.02;0.05;0.48;0.5;0.53;1" dur="4s" repeatCount="indefinite"/>
+    </g>
+    <g clip-path="url(#sliceB)" transform="translate(5 0)" opacity="0">
+      <text x="60" y="132" font-size="58" letter-spacing="6" fill="#ff2fd6">PRANEESH R V</text>
+      <animate attributeName="opacity" values="0;0;1;0;0;1;0" keyTimes="0;0.24;0.26;0.3;0.72;0.74;1" dur="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- subtitle -->
+  <text x="62" y="178" font-family="ui-monospace, Menlo, monospace" font-size="17" letter-spacing="3" fill="#9aa4c2" opacity="0.9">
+    [ AI RED TEAMING // OFFENSIVE SECURITY ]
+    <animate attributeName="opacity" values="0.9;0.9;0.25;0.9;0.9;0.4;0.9" keyTimes="0;0.35;0.37;0.4;0.8;0.82;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- status line -->
+  <g font-family="ui-monospace, Menlo, monospace" font-size="13" fill="#5a648a">
+    <text x="62" y="218">sys: arch linux · target: language models · status:</text>
+    <text x="482" y="218" fill="#00e5ff">ENGAGED</text>
+    <rect x="556" y="207" width="8" height="13" fill="#00e5ff">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#00e5ff" stroke-width="2" opacity="0.55" fill="none">
+    <path d="M14 34V14H34"/>
+    <path d="M866 14H886V34"/>
+    <path d="M886 226V246H866"/>
+    <path d="M34 246H14V226"/>
+  </g>
+
+  <!-- marching border -->
+  <rect x="4" y="4" width="892" height="252" rx="10" stroke="url(#neon)" stroke-width="1.5" opacity="0.5" stroke-dasharray="14 10">
+    <animate attributeName="stroke-dashoffset" values="0;-96" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
