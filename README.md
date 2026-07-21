@@ -31,11 +31,6 @@ Offensive security → AI red teaming. I break things politely — networks, web
   <img height="165" src="https://github-readme-stats-nine-amber-49.vercel.app/api/top-langs/?username=PraneeshRV&layout=compact&hide_border=true&disable_animations=true&bg_color=00000000&title_color=40a02b&text_color=4c4f69" alt="Top languages">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PraneeshRV/PraneeshRV/output/streak-dark.svg">
-  <img src="https://raw.githubusercontent.com/PraneeshRV/PraneeshRV/output/streak-light.svg" alt="Streak">
-</picture>
-
 ## <samp>📟 contribution radar</samp>
 
 <picture>
