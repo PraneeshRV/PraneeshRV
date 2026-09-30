@@ -1,40 +1,15 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header.svg" width="100%" alt="I break AI agents.">
-</picture>
+<img src="assets/hero.svg" width="100%" alt="I break AI agents. Praneesh R V, AI red teaming and offensive security, Amrita '27. A pulsar's beam sweeps across the line and knocks the word break apart.">
 
-**Praneesh R V.** Offensive security and AI red teaming. Final year of B.Tech Cybersecurity at Amrita Vishwa Vidyapeetham, graduating 2027.
+<a href="https://github.com/PraneeshRV/Agent-Redteaming-CTF-challs"><img src="assets/tile-ctf.svg" width="50%" alt="Agent CTF challenges: A2A injection and memory poisoning"></a><a href="https://github.com/SecurinResearch/granzion-labs/pulls?q=is%3Apr+is%3Amerged+author%3APraneeshRV"><img src="assets/tile-granzion.svg" width="50%" alt="Granzion Labs: 2 merged PRs adding 4 attack scenarios"></a>
+<a href="https://github.com/PraneeshRV/Redcalibur2.0"><img src="assets/tile-redcalibur.svg" width="50%" alt="RedCalibur 2.0: exposure workbench ranking by KEV and EPSS"></a><a href="https://github.com/PraneeshRV/crucible"><img src="assets/tile-crucible.svg" width="50%" alt="Crucible: a falsification gate for AI agents"></a>
 
-I look for the ways multi-agent LLM systems can be talked into doing things they shouldn't: prompt injection, memory poisoning, tool misuse, forged identities passed between agents over MCP and A2A. What I find usually ends up as a CTF challenge or a tool, so other people can practise it too.
+<a href="https://ctftime.org/team/375677"><img src="assets/hunter.svg" width="100%" alt="Team Hunter, drawn as Orion the hunter: 8th in India on CTFtime for 2026, 50+ CTFs, 200+ players at L3m0nCTF 2025, which I led. Best finishes: CREST 3rd and CryptoNite 5th."></a>
 
-### Selected work
+<details>
+<summary><b>More about me</b></summary>
+<br>
 
-**[Agent red-teaming CTF challenges](https://github.com/PraneeshRV/Agent-Redteaming-CTF-challs)**<br>
-Two multi-agent challenges: a JSON injection that rides an A2A pipeline into a command-running agent, and poisoned shared memory that gets a task router to hand out privileges. Plus a scanner that fires attack payloads and has an LLM grade the result.<br>
-<sub>Python · A2A · sole author</sub>
-
-**[Granzion Labs](https://github.com/SecurinResearch/granzion-labs)**, contributor<br>
-Securin's open-source testbed for attacking multi-agent systems. My [two merged PRs](https://github.com/SecurinResearch/granzion-labs/pulls?q=is%3Apr+is%3Amerged+author%3APraneeshRV) add four attack scenarios: token forgery, agent-card forgery, orchestrator task-queue poisoning and delegation loops.<br>
-<sub>Python · MCP · A2A · from my research internship at Securin</sub>
-
-**[RedCalibur 2.0](https://github.com/PraneeshRV/Redcalibur2.0)**<br>
-Local-first exposure workbench for developer machines. It inventories MCP configs, AI-tool configs and secrets (stored redacted), ranks vulnerable dependencies by CISA KEV and EPSS, and gates every scan on scope and risk tier, with an append-only audit log.<br>
-<sub>Python · FastAPI · Next.js</sub>
-
-**[Crucible](https://github.com/PraneeshRV/crucible)**<br>
-A falsification gate for AI agents. Before an agent commits to a conclusion that is expensive to get wrong, it has to build a rival explanation, say up front what each result would mean, and land on an explicit verdict instead of a confident guess.<br>
-<sub>Agent skill · Python</sub>
-
-Outside security: [Nabhasa](https://praneeshrv.github.io/nabhasa/), my portfolio as a neutron-star system you fly through, and [axec-cli](https://github.com/PraneeshRV/axec-cli), an AppImage launcher for Arch written in Rust.
-
-### CTF
-
-I co-founded [Team Hunter](https://ctftime.org/team/375677), 8th in India on CTFtime for 2026, across 50+ CTFs. Best finishes: CREST 3rd and CryptoNite 5th. I mostly play OSINT, forensics and web.
-
-I led L3m0nCTF 2025 and ran its infrastructure: a 24-hour onsite CTF for 200+ players on Google Cloud, CTFd and Docker. I also wrote its AI-security challenges and its [CTFd theme](https://github.com/PraneeshRV/CTFd-stargaze-theme).
-
-### Background
+I look for the ways multi-agent LLM systems can be talked into doing things they shouldn't, then turn what I find into CTF challenges and tools so other people can practise it too.
 
 - **Securin**, research intern in AI red teaming. Sep 2025 to May 2026.
 - **Joy IT Solutions**, AI developer intern on an Azure recruitment-agent platform. Apr to Jun 2026.
@@ -43,6 +18,6 @@ I led L3m0nCTF 2025 and ran its infrastructure: a 24-hour onsite CTF for 200+ pl
 
 <sub>Python, Go, Rust, TypeScript · Burp Suite, Ghidra, BloodHound, nmap · Docker, Google Cloud, Azure</sub>
 
-### Elsewhere
+</details>
 
-[praneeshrv.me](https://praneeshrv.me) · [LinkedIn](https://www.linkedin.com/in/praneesh-r-v-3a81b221a/) · [praneeshrv404@gmail.com](mailto:praneeshrv404@gmail.com)
+[praneeshrv.me](https://praneeshrv.me) · [fly through my portfolio](https://praneeshrv.github.io/nabhasa/) · [LinkedIn](https://www.linkedin.com/in/praneesh-r-v-3a81b221a/) · [praneeshrv404@gmail.com](mailto:praneeshrv404@gmail.com)
