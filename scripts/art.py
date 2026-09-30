@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the profile README's animated SVGs, drawn as plates from a star atlas.
 
-hero      the pulsar PSR B1257+12 sweeping its beam across "I break AI agents."
+hero      the pulsar PSR B1257+12 sweeping its beam across "Learning AI security."
 tile-*    one animated scene per project, each linked to its repo from the README
 hunter    Team Hunter drawn as Orion, the hunter, beside the CTF numbers
 
@@ -130,9 +130,9 @@ def tile(name, title, sub, scene, css="", alt="", seed=0, side="left", top_row=F
 def hero():
     W, H = 1000, 380
     px, py = 846, 132             # the pulsar
-    size, track, x0, base = 88, -2.2, 56, 268
+    size, track, x0, base = 76, -2.2, 56, 268
     T = 9                         # seconds per rotation of the beams
-    text, word = "I break AI agents.", "break"
+    text, word = "Learning AI security.", "Learning"
 
     font = TTFont(FONT_FILES["serif"])
     glyphs, cmap, hmtx = font.getGlyphSet(), font.getBestCmap(), font["hmtx"]
@@ -160,7 +160,7 @@ def hero():
                 f'<g clip-path="url(#slid)"><g class="jolt"><path transform="translate({shift} 0)" d="{d}"/>'
                 f'</g></g></g>')
 
-    # The beams start pointed at "break", so the reduced-motion still shows the word being hit.
+    # The beams start pointed at "Learning", so the reduced-motion still shows the word being hit.
     bx, by = (left + right) / 2, cut
     aim = math.degrees(math.atan2(by - py, bx - px)) % 360
     start_angle = aim - 180         # beam two (drawn at 180 degrees) begins on the word
@@ -210,12 +210,12 @@ def hero():
             + f'<rect class="flash" x="{left + 4:.1f}" y="{cut - .6:.1f}" width="{right - left + shift:.1f}" '
               f'height="1.2" fill="{MINT}"/>'
             + label("PRANEESH R V", x0 + 2, 64, "mono", 17, LILAC, track=5)
-            + label("AI RED TEAMING  ·  OFFENSIVE SECURITY  ·  AMRITA '27", x0 + 2, 330, "mono", 15, MUTED,
+            + label("CYBERSECURITY STUDENT  ·  AI SECURITY  ·  AMRITA '27", x0 + 2, 330, "mono", 15, MUTED,
                     track=1.5)
             + f'<path d="M{px} {py + 12}V{py + 64}" stroke="{LILAC}" stroke-opacity=".35"/>'
             + label("PSR B1257+12", px, py + 86, "mono", 13, LILAC, "middle", 1)
             + label("13h 00m 03s  +12° 40′ 57″", px, py + 104, "mono", 11, MUTED, "middle"))
-    frame("hero", W, H, body, css, "I break AI agents. Praneesh R V, AI red teaming and offensive security.")
+    frame("hero", W, H, body, css, "Learning AI security. Praneesh R V, cybersecurity student at Amrita, class of 2027.")
 
 
 # ---------------------------------------------------------------- project tiles
@@ -269,7 +269,7 @@ def tile_ctf():
            + ".poison{animation:tw 1.4s ease-in-out infinite alternate}")
     tile("tile-ctf", "Agent CTF challenges", "A2A injection  ·  memory poisoning", scene, css,
          "Agent red-teaming CTF challenges: an injected packet crosses an A2A link and hits the executor agent, "
-         "whose memory holds one poisoned cell.", seed=11, top_row=True)
+         "whose memory holds one poisoned cell.", seed=11)
 
 
 def tile_granzion():
@@ -283,7 +283,7 @@ def tile_granzion():
         parts.append(f'<path d="{path}" fill="none" stroke="{LILAC}" stroke-opacity=".22"/>')
         forged = i == 1
         card_colour = MINT if forged else LILAC
-        # The forged agent card is split along the same cut as "break" in the header.
+        # The forged agent card is split along the same cut as "Learning" in the header.
         card = (f'<rect x="8" y="-5" width="14" height="4.4" rx="1" fill="{card_colour}" '
                 f'transform="translate({2.5 if forged else 0} 0)"/>'
                 f'<rect x="8" y=".6" width="14" height="4.4" rx="1" fill="{card_colour}"/>')
@@ -338,7 +338,7 @@ def tile_redcalibur():
            + f".redact{{animation:redact {T}s linear infinite}}"
            + "@keyframes redact{0%{opacity:0}6%{opacity:.85}85%{opacity:.85}100%{opacity:0}}")
     tile("tile-redcalibur", "RedCalibur 2.0", "exposure workbench  ·  KEV + EPSS", scene, css,
-         "RedCalibur 2.0: a radar sweep finds exposed secrets on a developer machine and redacts each one.", seed=37)
+         "RedCalibur 2.0: a radar sweep finds exposed secrets on a developer machine and redacts each one.", seed=37, side="right")
 
 
 def tile_crucible():
@@ -399,9 +399,9 @@ def hunter():
         r = 5.4 - 1.15 * mag
         orion.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r * 4.5:.1f}" fill="url(#starglow)"/>'
                      f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{r:.1f}" fill="{colour}"/>')
-    stats = [(400, "8th", "in India on CTFtime", "for the 2026 season"),
+    stats = [(400, "8th", "in India on CTFtime", "as of 30 Sep 2026"),
              (580, "50+", "CTFs played", "with Team Hunter"),
-             (766, "200+", "players at L3m0nCTF", "2025, which I led")]
+             (766, "200+", "players at L3m0nCTF", "platform + hosting")]
     right = "".join(label(big, x, 150, "serif", 72, TITLE) + label(l1, x + 2, 182, "mono", 14, MUTED)
                     + label(l2, x + 2, 202, "mono", 14, MUTED) for x, big, l1, l2 in stats)
     body = (f'<defs>{glow("starglow", "#dbe6ff", ((0, .45), (.3, .12), (1, 0)))}'
@@ -413,12 +413,13 @@ def hunter():
             + label("TEAM HUNTER", ox, H - 34, "mono", 14, LILAC, "middle", 5)
             + label("CAPTURE THE FLAG", 402, 70, "mono", 14, LILAC, track=5)
             + right
-            + label("best finishes: CREST 3rd, CryptoNite 5th", 402, 240, "mono", 13, LILAC))
+            + label("L3m0nCTF: website, platform + challenge hosting", 402, 240, "mono", 13, LILAC))
     css = (".draw{stroke-dashoffset:0;animation:draw 2.6s ease-out both}"
            "@keyframes draw{from{stroke-dashoffset:var(--n)}to{stroke-dashoffset:0}}")
     frame("hunter", W, H, body, css,
-          "Team Hunter, drawn as Orion the hunter. 8th in India on CTFtime for 2026, 50+ CTFs played, "
-          "200+ players at L3m0nCTF 2025.")
+          "I play CTFs with Team Hunter, drawn as Orion the hunter. The team is 8th in India on CTFtime "
+          "for 2026 as of 30 September 2026. 50+ CTFs played; 200+ players at L3m0nCTF 2025, "
+          "where I built the website and platform and handled platform and challenge hosting.")
 
 
 if __name__ == "__main__":

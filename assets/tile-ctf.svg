@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="487" height="305" viewBox="0 0 487 305" role="img" aria-label="Agent red-teaming CTF challenges: an injected packet crosses an A2A link and hits the executor agent, whose memory holds one poisoned cell."><title>Agent red-teaming CTF challenges: an injected packet crosses an A2A link and hits the executor agent, whose memory holds one poisoned cell.</title><style>
+<svg xmlns="http://www.w3.org/2000/svg" width="487" height="300" viewBox="0 0 487 300" role="img" aria-label="Agent red-teaming CTF challenges: an injected packet crosses an A2A link and hits the executor agent, whose memory holds one poisoned cell."><title>Agent red-teaming CTF challenges: an injected packet crosses an A2A link and hits the executor agent, whose memory holds one poisoned cell.</title><style>
 .tw{animation:tw ease-in-out infinite alternate}
 @keyframes tw{from{opacity:.12}to{opacity:.95}}
 @keyframes spin{to{transform:rotate(360deg)}}

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="487" height="300" viewBox="0 0 487 300" role="img" aria-label="RedCalibur 2.0: a radar sweep finds exposed secrets on a developer machine and redacts each one."><title>RedCalibur 2.0: a radar sweep finds exposed secrets on a developer machine and redacts each one.</title><style>
+<svg xmlns="http://www.w3.org/2000/svg" width="487" height="300" viewBox="-7 0 487 300" role="img" aria-label="RedCalibur 2.0: a radar sweep finds exposed secrets on a developer machine and redacts each one."><title>RedCalibur 2.0: a radar sweep finds exposed secrets on a developer machine and redacts each one.</title><style>
 .tw{animation:tw ease-in-out infinite alternate}
 @keyframes tw{from{opacity:.12}to{opacity:.95}}
 @keyframes spin{to{transform:rotate(360deg)}}
