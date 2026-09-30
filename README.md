@@ -5,7 +5,7 @@
 
 <a href="https://ctftime.org/team/375677"><img src="assets/hunter.svg" width="100%" alt="Team Hunter, drawn as Orion the hunter: 8th in India on CTFtime for 2026, 50+ CTFs, 200+ players at L3m0nCTF 2025, which I led. Best finishes: CREST 3rd and CryptoNite 5th."></a>
 
-<details>
+<details open>
 <summary><b>More about me</b></summary>
 <br>
 
