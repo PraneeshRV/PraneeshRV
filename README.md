@@ -10,6 +10,14 @@ I look for the ways multi-agent LLM systems can be talked into doing things they
 
 ### Selected work
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/map-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/map-light.svg">
+  <img src="assets/map.svg" width="100%" alt="Diagram of a multi-agent system: input, orchestrator, agents and tools, with shared memory and agent identity. Red marks show where my work breaks it: JSON injection over A2A, token and agent-card forgery, task-queue poisoning, memory poisoning, and exposed MCP configs.">
+</picture>
+
+<sub>Where my work breaks a multi-agent system. Each mark is a challenge, attack scenario or tool below.</sub>
+
 **[Agent red-teaming CTF challenges](https://github.com/PraneeshRV/Agent-Redteaming-CTF-challs)**<br>
 Two multi-agent challenges: a JSON injection that rides an A2A pipeline into a command-running agent, and poisoned shared memory that gets a task router to hand out privileges. Plus a scanner that fires attack payloads and has an LLM grade the result.<br>
 <sub>Python · A2A · sole author</sub>
