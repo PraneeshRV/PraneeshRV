@@ -30,7 +30,7 @@ Outside security: [Nabhasa](https://praneeshrv.github.io/nabhasa/), my portfolio
 
 ### CTF
 
-I co-founded [Team Hunter](https://ctftime.org/team/375677), 8th in India on CTFtime for 2026, across 50+ CTFs. CREST 3rd, CryptoNite 5th, and best write-up at KICTF Yugam 2026 for [HAM44](https://github.com/PraneeshRV/Ham44-Writeup-KICTF), an Android challenge nobody had solved yet. I mostly play OSINT, forensics and web.
+I co-founded [Team Hunter](https://ctftime.org/team/375677), 8th in India on CTFtime for 2026, across 50+ CTFs. Best finishes: CREST 3rd and CryptoNite 5th. I mostly play OSINT, forensics and web.
 
 I led L3m0nCTF 2025 and ran its infrastructure: a 24-hour onsite CTF for 200+ players on Google Cloud, CTFd and Docker. I also wrote its AI-security challenges and its [CTFd theme](https://github.com/PraneeshRV/CTFd-stargaze-theme).
 
